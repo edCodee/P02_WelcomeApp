@@ -6,7 +6,9 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="16dp"
-    tools:context=".ui.welcome.MainActivity">
+    android:fitsSystemWindows="true"
+    tools:context=".ui.welcome.MainActivity"
+    tools:ignore="EdgeToEdgeOverlay">
 
     <TextView
         android:id="@+id/welcomeTextView"
