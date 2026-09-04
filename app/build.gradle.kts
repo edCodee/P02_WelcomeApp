@@ -6,7 +6,7 @@ android {
     namespace = "ec.edu.uta.fisei.welcomeapp"
 
     compileSdk {
-        version = release(36)
+        version = release(37)
     }
 
     defaultConfig {
